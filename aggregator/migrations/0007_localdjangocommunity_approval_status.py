@@ -6,7 +6,7 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('aggregator', '0005_feeditem_add_index_date_modified'),
+        ('aggregator', '0006_localdjangocommunity_plural'),
     ]
 
     operations = [
